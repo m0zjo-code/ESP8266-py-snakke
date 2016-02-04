@@ -34,7 +34,7 @@ def clientthread(conn):
 		data = conn.recv(1024)
 		print len(data)
 		print data
-		reply = "LED" #ACK here
+		reply = "ACK" #ACK here
 		if not data:
 			break
 
