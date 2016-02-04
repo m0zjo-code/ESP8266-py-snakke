@@ -3,8 +3,8 @@
 
 //Network info - to be set by user
 //ToDo - Set up "Set up via WiFi hotspot"
-const char* ssid     = "Scorpio";
-const char* password = "ROBISANOB";
+const char* ssid     = "SSID";
+const char* password = "password";
 
 //Host Info - To be set by user - DNS is Supported
 const char* host = "m0zjo-HP-Compaq-6715b-GB835ET-ABU";
